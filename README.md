@@ -25,7 +25,7 @@ This Python script does this and generates output that can be cut/pasted into a 
 
 ## Instructions
 
-From Timestation, generate a an **Employee Summary** report for the required reporting period.
+From Timestation, generate a an **Employee Activity** report for the required reporting period.
 
 Download the result as a CSV and then execute the script:
 
